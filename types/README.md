@@ -17,9 +17,9 @@ you as a result (at least that has been my experience).
 In the beginning, types were invented as a way to avoid the paradox that arises
 in set theory if you take everything---even the collection of all sets---to be
 a set.  (If you do that, then there's no way to decide whether the
-set X = { S | S ∉ S } contains.  If you think X ∈ X, then you're wrong,
-since the condition of belonging to X is X ∉ X. If you think X ∉ X, then X ∈ X
-and your wrong again!)
+set X = { S | S ∉ S } contains itself as a member.  If you think X ∈ X, then you're wrong!
+The condition of belonging to X is X ∉ X. If you think X ∉ X, then X ∈ X
+and you're wrong again!)
 
 This is called Russel's Paradox and, in set theory, we avoid it by using the
 term *set* only for collections that are "small" in some sense, and we use the
