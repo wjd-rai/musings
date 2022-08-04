@@ -16,7 +16,7 @@ you as a result (at least that has been my experience).
 
 In the beginning, types were invented as a way to avoid the paradox that arises
 in set theory if you take everything---even the collection of all sets---to be
-a set.  (If you do that, then there's no way to decide whether the following
+a set.  (If you do that, then there's no way to decide whether the
 set X = { S | S ∉ S } contains.  If you think X ∈ X, then you're wrong,
 since the condition of belonging to X is X ∉ X. If you think X ∉ X, then X ∈ X
 and your wrong again!)
