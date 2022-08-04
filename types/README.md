@@ -33,10 +33,10 @@ that are built out of the types in Type₀.  From there we build types in the
 collection Type₂, and so on, until we have a hierarchy of types.
 
 Now, I know what you're thinking at this point.  You want to know whether this
-hierarchy of types is "ramified," don't you?  That is, you're wondering whether
-the following subset relations hold: Type₀ ⊆ Type₁ ⊆ Type₂ ⊆ ⋯  Great question,
-thanks! But this is pretty technical and we don't need to settle it right now.
-(Spoiler: in Coq "yes," in Agda "no.") 
+hierarchy of types is "ramified." That is, you're wondering whether
+the following subset relations hold: Type₀ ⊆ Type₁ ⊆ Type₂ ⊆ ⋯  Well, that's a
+great question (thanks!), but it's quite technical and we won't need to settle
+it here. (Spoiler: in Coq "yes," in Agda "no.") 
 
 ## Syntax
 
